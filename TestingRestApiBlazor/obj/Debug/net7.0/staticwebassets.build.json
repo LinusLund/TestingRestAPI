@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Bt4uzkoMSCk0hRt39nOwwDfEUXw1sieYHMp9os4F9QA=",
+  "Source": "TestingRestApiBlazor",
+  "BasePath": "_content/TestingRestApiBlazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestingRestApiBlazor\\wwwroot",
+      "Source": "TestingRestApiBlazor",
+      "ContentRoot": "C:\\Valei\\SDKTEstMap\\ByggaEgetAPImedSDK\\TestingRestApiBlazor\\wwwroot\\",
+      "BasePath": "_content/TestingRestApiBlazor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Valei\\SDKTEstMap\\ByggaEgetAPImedSDK\\TestingRestApiBlazor\\wwwroot\\css\\site.css",
+      "SourceId": "TestingRestApiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Valei\\SDKTEstMap\\ByggaEgetAPImedSDK\\TestingRestApiBlazor\\wwwroot\\",
+      "BasePath": "_content/TestingRestApiBlazor",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

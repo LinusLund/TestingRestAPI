@@ -1,0 +1,17 @@
+﻿@page "/"
+
+@inject HttpClient TestingRestAPI
+
+<h3>API Response:</h3>
+<p>@apiResponse</p>
+
+@code {
+    private string apiResponse;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Example API call with a relative URI
+        var response = await TestingRestAPI.GetStringAsync("api/Receipt");
+        apiResponse = response;
+    }
+}

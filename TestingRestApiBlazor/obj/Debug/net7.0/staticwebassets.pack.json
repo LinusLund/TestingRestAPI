@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Valei\\SDKTEstMap\\ByggaEgetAPImedSDK\\TestingRestApiBlazor\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TestingRestApiBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TestingRestApiBlazor.props",
+      "PackagePath": "build\\TestingRestApiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TestingRestApiBlazor.props",
+      "PackagePath": "buildMultiTargeting\\TestingRestApiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TestingRestApiBlazor.props",
+      "PackagePath": "buildTransitive\\TestingRestApiBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
